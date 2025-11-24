@@ -27,7 +27,7 @@ def get_days(month, year=None):
 
     # Validate month number
     if month < 1 or month > 12:
-        return "The number added is wrong. Please enter a number between 1 and 12."
+        return "The number added is wrong. Please enter a number between 1 and 12." 
 
     # Special case: February (month 2)
     if month == 2 and year is not None:
@@ -57,4 +57,4 @@ try:
     print(f"There are {days} days in month {month_number}.")
 
 except ValueError:
-    print("Invalid input. Please enter whole numbers only.")
+    print("Invalid input. Please enter whole numbers only.") 

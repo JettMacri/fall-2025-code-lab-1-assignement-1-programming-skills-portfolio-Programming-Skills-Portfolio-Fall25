@@ -7,10 +7,9 @@
 ### Advanced Requirements:
 #Ignore Capitalization: Modify your program to accept answers regardless of the capitalization (e.g., "paris", "Paris", and "PaRis" should all be considered correct).
 #Multiple Questions: Extend the program into a quiz that asks for the capitals of 10 European countries. Provide feedback for each question.
+
 #Answer:
-# This program asks the user a question and checks if their answer
-# is correct. It uses .lower() to ignore capital letters, making
-# the answer check flexible and user-friendly.
+# This program asks the user a question and checks if their answer is correct. It uses .lower() to ignore capital letters, making the answer check flexible and user-friendly.
 
 # Display the question to the user
 print("What is the capital of France?")

@@ -6,7 +6,7 @@
 #Answer:
 # Set the correct password and maximum number of allowed attempts.
 
-correct_password = "12345"   # The required password (as stated in task)
+correct_password = "12345"   # The required password 
 max_attempts = 5             # User can try up to 5 times
 attempts = 0                 # Counter to track the number of attempts made
 
@@ -31,5 +31,5 @@ while attempts < max_attempts:
         if remaining_attempts > 0:
             print(f"Incorrect password. You have {remaining_attempts} attempts remaining.")
         else:
-            # No attempts left = security alert
-            print("Maximum attempts reached. The authorities have been alerted.")
+            # All attempts used = security alert
+            print("All attempts used. The authorities have been notified.")

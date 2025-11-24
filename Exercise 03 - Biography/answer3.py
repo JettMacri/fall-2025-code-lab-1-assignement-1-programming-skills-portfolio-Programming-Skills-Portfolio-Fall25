@@ -8,10 +8,9 @@
 #Have the user input their name, hometown, and age instead of hardcoding the values.
 #Try giving both your first and second name when asked for your name. What happens? How can you handle multiple words in Python?
 #Test the program by entering a string value for age (e.g., "twenty"). What happens? How can you prevent this issue?
+
 #Answer:
-# Exercise - Personal Information Program
-# This program asks the user for their first name, last name,
-# hometown, and age. It then prints the information back to them.
+# This program asks the user for their first name, last name, hometown, and age. It then prints the information back to them.
 # This demonstrates the use of variables, user input, and output.
 
 # Collect user information using input()

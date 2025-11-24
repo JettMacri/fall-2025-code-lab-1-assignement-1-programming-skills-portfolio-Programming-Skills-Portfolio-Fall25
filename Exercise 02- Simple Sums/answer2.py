@@ -5,11 +5,9 @@
 #2. Declare a second variable and initialize it with the integer value `10`.
 #3. Declare a third variable that stores the sum of first two numbers.
 #4. Print the value of the sum to the console.
+
 #Answer:
-# Exercise - Simple Addition
-# This program stores two numbers in variables, adds them together,
-# and prints the result. This shows how Python can perform basic
-# arithmetic using variables.
+# This program stores two numbers in variables, adds them together, and prints the result. This shows how Python can perform basic
 
 # Store the numbers in variables
 a = 8

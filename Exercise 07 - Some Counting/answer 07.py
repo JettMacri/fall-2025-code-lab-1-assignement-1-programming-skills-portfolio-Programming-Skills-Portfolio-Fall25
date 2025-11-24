@@ -10,8 +10,8 @@
 # Answer:
 # This program uses for loops to count in different ways.
 
-# 1. Count up from 0 to 50 in increments of 1
-print("Counting up from 0 to 50 in increments of 1:")
+# 1. Count  from 0 to 50 in increments of 1
+print("Counting from 0 to 50 in increments of 1:")
 for number in range(0, 51, 1):
     print(number)
 
@@ -24,8 +24,8 @@ for number in range(50, -1, -1):
 
 print()
 
-# 3. Count up from 30 to 50 in increments of 1
-print("Counting up from 30 to 50 in increments of 1:")
+# 3. Count  from 30 to 50 in increments of 1
+print("Counting from 30 to 50 in increments of 1:")
 for number in range(30, 51, 1):
     print(number)
 
@@ -38,7 +38,7 @@ for number in range(50, 9, -2):
 
 print()
 
-# 5. Count up from 100 to 200 in increments of 5
-print("Counting up from 100 to 200 in increments of 5:")
+# 5. Count  from 100 to 200 in increments of 5
+print("Counting from 100 to 200 in increments of 5:")
 for number in range(100, 201, 5):
     print(number)

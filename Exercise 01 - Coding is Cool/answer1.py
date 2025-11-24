@@ -4,10 +4,6 @@
 # Use string concatenation to combine the variables and print the phrase
 
 #Answer:
-# Exercise - Simple Word Printer
-# This program stores three words in variables and then prints them
-# together on one line. This shows how variables can hold strings
-# and how print() can output multiple values at once.
 # Store words in separate variables
 
 word1 = "coding"
