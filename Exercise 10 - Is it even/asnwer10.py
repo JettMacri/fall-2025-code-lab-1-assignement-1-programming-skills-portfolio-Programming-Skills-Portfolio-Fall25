@@ -4,7 +4,9 @@
 #* The program should ask the user for a number from within the main function.
 #* The entered number should be passed to a function that determines if the value is even or odd.
 #* The function should return a message indicating whether the number is even or odd.
-#* The message returned by the function should be printed from within the main function.#Answer:
+#* The message returned by the function should be printed from within the main function.
+
+ #Answer:
 def even_odd(number):
     # This function checks if the number is even or odd
     if number % 2 == 0:
@@ -33,4 +35,4 @@ def main():
 
 # Entry point
 if __name__ == "__main__":
-        main()
+  main()

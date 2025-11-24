@@ -1,5 +1,6 @@
 ## Exercise 9: Hello - 10 Marks
 #Fill in the blanks in the code below so that the function hello() prints "Hello" to the console. python
+
 #Answer:
 def hello():
     print("Hello")  # This prints "Hello" to the console
@@ -9,4 +10,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+# The code above defines a function hello() that prints "Hello" and a main() function that calls hello().
